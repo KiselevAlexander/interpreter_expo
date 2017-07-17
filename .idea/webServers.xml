@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="60528ff5-a1cb-4adf-ad5d-d1e1f4e130cc" name="Kiselev" url="http://interpretexpo.com/">
+        <fileTransfer host="77.222.42.206" port="21" rootFolder="/expo/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
